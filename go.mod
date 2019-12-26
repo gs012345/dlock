@@ -1,4 +1,6 @@
-module github.com/g0194776/distributed-lock
+module dlock
+
+go 1.13
 
 require (
 	github.com/coreos/etcd v3.3.10+incompatible
