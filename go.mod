@@ -1,4 +1,4 @@
-module dlock
+module github.com/gs012345/dlock
 
 go 1.13
 
